@@ -10,4 +10,4 @@ reproducible pitch presentation about the application.
 
 The presentation is available at: https://github.com/Bishal-psy/Shiny-Application-and-Reproducible-Pitch/blob/main/mcPres-rpubs.html
 
-Files for the presentation are avalilable on the GitHub: https://github.com/MatyusI/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/tree/master
+Files for the presentation are avalilable on the GitHub: https://github.com/Bishal-psy/Shiny-Application-and-Reproducible-Pitch
